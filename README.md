@@ -6,5 +6,4 @@ Railway reservation system
 
            #   Admin Microservice -> inside Search Microservice
               
-              User "
-              Booking "
+             Rest all O.K.
