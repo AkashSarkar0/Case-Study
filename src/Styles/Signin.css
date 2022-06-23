@@ -1,0 +1,105 @@
+.ui_main_signin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(157, 213, 131);
+}
+.ui_form_signin{
+    background-color: #110505;
+    margin-top: 20px;
+    height: 930px;
+    width: 800px;
+    border-radius: 20px;
+}
+.input-field-signin{
+    background-color: #b6f28cc4;
+    padding: 15px;
+    margin: 30px 10px 22px 10px;
+    border-radius: 40px;
+    border: 1px solid rgb(8, 15, 156);
+}
+.ui_button_signin{
+    background-color: rgb(48, 178, 65);
+    width: 200px;
+    padding: 20px;
+    border: 7px solid rgb(14, 73, 19);
+    border-radius: 50px;
+    margin-top:15px;
+}
+
+.signinconfirmbtn{
+    background-color: rgb(66, 196, 83);
+    width: 350px;
+    padding: 20px;
+    border: 7px solid rgb(28, 67, 31);
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+
+.name {
+    padding: 6px 100px;
+    margin: 5px 0;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    cursor: text;
+    width: 350px;
+    height: 25px;
+    opacity: 0.9;
+}
+
+.email {
+    padding: 6px 100px;
+    margin: 5px 0;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    cursor: text;
+    width: 350px;
+    height: 25px;
+    opacity: 0.9;
+}
+
+.phoneNo {
+    padding: 6px 100px;
+    margin: 5px 0;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    cursor: text;
+    width: 350px;
+    height: 25px;
+    opacity: 0.9;
+}
+
+.username {
+    padding: 6px 100px;
+    margin: 5px 0;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    cursor: text;
+    width: 350px;
+    height: 25px;
+    opacity: 0.9;
+}
+
+.password {
+    padding: 6px 100px;
+    margin: 5px 0;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    cursor: text;
+    width: 350px;
+    height: 25px;
+    opacity: 0.9;
+}
+
+.confirmPassword {
+    padding: 6px 100px;
+    margin: 5px 0;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    cursor: text;
+    width: 350px;
+    height: 25px;
+    opacity: 0.9;
+}

@@ -1,0 +1,60 @@
+.container5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+    justify-content: center;
+    background-color: rgb(136, 203, 255);
+}
+
+.modal-content_1{
+    background-color: #88de9a;
+    margin-top: 40px;
+    height: 300px;
+    width: 800px;
+    border-radius: 20px;
+}
+
+.Cancel1{
+    background-color: rgb(241, 153, 135);
+    width: 150px;
+    padding: 10px;
+    border-radius: 50px;
+    margin-top: 60px;
+}
+
+
+.name1 {
+    padding: 6px 100px;
+    margin: 5px 0;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    cursor: text;
+    width: 350px;
+    height: 25px;
+    opacity: 0.9;
+}
+
+.train_id1 {
+    padding: 6px 100px;
+    margin: 5px 0;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    cursor: text;
+    width: 400px;
+    height: 25px;
+    opacity: 0.9;
+}
+
+
+.journeyDate1 {
+    padding: 6px 100px;
+    margin: 5px 0;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    cursor: text;
+    width: 150px;
+    height: 25px;
+    opacity: 0.9;
+}
+

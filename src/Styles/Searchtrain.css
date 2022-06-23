@@ -1,0 +1,70 @@
+.ui_main_search{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(136, 203, 255);
+}
+.ui_form_search{
+    background-color: #110505;
+    margin-top: 20px;
+    height: 400px;
+    width: 800px;
+    border-radius: 20px;
+}
+.ouputBox{
+    background-color: #ffffff;
+    margin-top: 20px;
+    height: 400px;
+    width: 800px;
+    border-radius: 20px;
+}
+
+.input-field-search{
+    background-color: rgb(215, 218, 146);
+    padding: 15px;
+    margin: 30px 10px 22px 10px;
+    border-radius: 40px;
+    border: 1px solid rgb(8, 15, 156);
+}
+.ui_button_search{
+    background-color: rgb(101, 255, 122);
+    width: 110px;
+    padding: 20px;
+    border: 2px solid rgb(14, 73, 19);
+    border-radius: 50px;
+    margin-top:15px;
+}
+
+
+
+.train_origin {
+    padding: 6px 100px;
+    margin: 5px 0;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    cursor: text;
+    width: 350px;
+    height: 25px;
+    opacity: 0.9;
+}
+
+.train_destination {
+    padding: 6px 100px;
+    margin: 5px 0;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    cursor: text;
+    width: 350px;
+    height: 25px;
+    opacity: 0.9;
+}
+
+.bookingbtn{
+    background-color: rgb(66, 196, 83);
+    width: 350px;
+    padding: 20px;
+    border: 7px solid rgb(28, 67, 31);
+    border-radius: 50px;
+    margin-top: 20px;
+}
